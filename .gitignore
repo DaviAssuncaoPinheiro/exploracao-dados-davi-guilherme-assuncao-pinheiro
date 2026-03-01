@@ -1,0 +1,5 @@
+﻿# Ignorar datasets grandes locais
+/data/*.csv
+
+# Ambiente virtual local
+.venv/
